@@ -1,3 +1,5 @@
+**Nxt-Watch:-** "https://nxtwatchPrathap.ccbp.tech"
+
 In this project, let's build **Nxt Watch** by applying the concepts we have learned till now.
 
 ### Refer to the videos below:
@@ -17,6 +19,8 @@ https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4
 
 
 **Failure View** <br/>
+
+https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4
 
 <div style="text-align: center;">
     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
