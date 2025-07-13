@@ -6,7 +6,9 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
 
 **Success View** <br/>
 
-https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4
+
+https://github.com/user-attachments/assets/f4fe40ae-f6b9-470e-8652-884806ef1c4a
+
 
 <div style="text-align: center;">
      <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
@@ -20,7 +22,9 @@ https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4
 
 **Failure View** <br/>
 
-https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4
+
+https://github.com/user-attachments/assets/860193e8-c91f-446b-85cb-b405e91b5518
+
 
 <div style="text-align: center;">
     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
